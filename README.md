@@ -1,13 +1,12 @@
-# ELEton
+# Driver protector
 
-## ELEton, A project skeleton for Electronics projects
+## Passive woofer protection circuit for audio use
 
 ## Description
-Simple skeleton for structuring the necessary components of an electronics project.
+Audio (power) amplifier powered passive circuit that protects woofers from DC breakout currents
 
-## Usage
+## File Structure 
 - Hardware goes under `hw/`
-- Software goes under `sw/`
 
 ## Author(s)
 Lenni Toikkanen
